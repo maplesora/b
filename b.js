@@ -13,7 +13,7 @@
  const data = {"info": "abc"};
  */
 
- needCoin();
+ NeedCoin();
 
  $done();
  function NeedCoin(cookie){
